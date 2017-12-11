@@ -1,3 +1,5 @@
+console.log("oi webpack");
+
 var express = require('express');
 var path = require('path');
 var favicon = require('serve-favicon');
